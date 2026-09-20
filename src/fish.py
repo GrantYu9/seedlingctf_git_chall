@@ -8,7 +8,7 @@ from PIL import Image
 class Fish:
     def __init__(self):
         self._ROOT = Path(__file__).parent.parent
-        self._BLUB_BLUB = self._ROOT / "data" / "blub_blub.png"
+        self._BLUB_BLUB = self._ROOT / "data" / "images" / "blub_blub.png"
 
     def blub(self) -> str:
         return "Blub blub."
