@@ -1,0 +1,53 @@
+commit dbddfb035d8214eae169e9df814ff62b992fa582
+Author: Grant Yu <grantyu2019@gmail.com>
+Date:   Sat Sep 19 17:26:02 2026 -0700
+
+    blub blub
+
+ delete mode 100644 data/super_secret_stuff/important_stuff.txt
+
+commit 99c5b94817a0e8acdece63937806688bb9cadb9c
+Author: Grant Yu <grantyu2019@gmail.com>
+Date:   Sat Sep 19 17:25:07 2026 -0700
+
+    Remove critical bug
+
+ delete mode 100644 src/blub_blub.py
+
+commit 107cafcd15dbbc9ce384923d3c32c2ccc2b85202
+Author: Grant Yu <grantyu2019@gmail.com>
+Date:   Sat Sep 19 17:19:18 2026 -0700
+
+    Oh no I forgot to delete my super important thing heehehe
+    
+    I hope nobody sees this
+
+ delete mode 100755 data/main.sh
+
+commit 314f467f516dd51fc3326b2e948ff1e2d8038fcf
+Author: Grant Yu <grantyu2019@gmail.com>
+Date:   Sat Sep 19 17:18:48 2026 -0700
+
+    Why are there still hidden files
+
+ delete mode 100644 data/.DS_Store
+ delete mode 100644 src/.DS_Store
+
+commit a3b88bd5515c116113e18429dc8aa9f38753248b
+Author: Grant Yu <grantyu2019@gmail.com>
+Date:   Sat Sep 19 17:17:44 2026 -0700
+
+    Oh no I lost even more stuff :(
+
+ delete mode 100644 .DS_Store
+ delete mode 100644 build/.DS_Store
+ delete mode 100644 build/lib/__init__.py
+ delete mode 100644 build/lib/fish.py
+ delete mode 100644 interface/__pycache__/main.cpython-314.pyc
+ delete mode 100644 src/__pycache__/__init__.cpython-314.pyc
+ delete mode 100644 src/__pycache__/fish.cpython-314.pyc
+ delete mode 100644 src/blub_blub.egg-info/PKG-INFO
+ delete mode 100644 src/blub_blub.egg-info/SOURCES.txt
+ delete mode 100644 src/blub_blub.egg-info/dependency_links.txt
+ delete mode 100644 src/blub_blub.egg-info/requires.txt
+ delete mode 100644 src/blub_blub.egg-info/top_level.txt
