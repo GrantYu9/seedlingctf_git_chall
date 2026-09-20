@@ -1,0 +1,8 @@
+pyproject.toml
+src/__init__.py
+src/fish.py
+src/blub_blub.egg-info/PKG-INFO
+src/blub_blub.egg-info/SOURCES.txt
+src/blub_blub.egg-info/dependency_links.txt
+src/blub_blub.egg-info/requires.txt
+src/blub_blub.egg-info/top_level.txt
