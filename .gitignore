@@ -1,0 +1,8 @@
+/.vscode/
+/build/
+
+__pycache__/
+blub_blub.egg-info/
+
+.DS_Store
+
